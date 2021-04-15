@@ -204,12 +204,20 @@
       "oAP" : "\/in-class-demo-main\/design\/structure-tags.sketch",
       "oF" : 0
     },
-    "\/in-class-demo-main\/dev\/content\/hero.html" : {
+    "\/in-class-demo-main\/dev\/content\/header.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/in-class-demo-main\/dev\/content\/hero.html",
+      "oAP" : "\/in-class-demo-main\/dev\/content\/header.html",
+      "oF" : 0
+    },
+    "\/in-class-demo-main\/dev\/content\/header.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/dev\/content\/header.html",
       "oF" : 0
     },
     "\/in-class-demo-main\/dev\/content\/hero.kit" : {
@@ -400,25 +408,6 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
-    },
-    "\/in-class-demo-main\/README.md" : {
-      "cB" : 0,
-      "cS" : 0,
-      "eF" : 1,
-      "eL" : 1,
-      "ema" : 1,
-      "eSQ" : 1,
-      "ft" : 4096,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/in-class-demo-main\/README.html",
-      "oF" : 0,
-      "oFM" : 0,
-      "oS" : 0,
-      "pHT" : 0,
-      "pME" : 1,
-      "rFN" : 0,
-      "uCM" : 0
     }
   },
   "hooks" : [
