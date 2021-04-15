@@ -204,6 +204,14 @@
       "oAP" : "\/in-class-demo-main\/design\/structure-tags.sketch",
       "oF" : 0
     },
+    "\/in-class-demo-main\/dev\/content\/hero.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/dev\/content\/hero.html",
+      "oF" : 0
+    },
     "\/in-class-demo-main\/dev\/content\/hero.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -422,7 +430,7 @@
   "projectAttributes" : {
     "creationDate" : 640037491.07917202,
     "displayValue" : "hw-spratley",
-    "displayValueWasSetByUser" : 0,
+    "displayValueWasSetByUser" : 1,
     "iconImageName" : "brackets-unblue",
     "iconImageWasSetByUser" : 0
   },
