@@ -1,0 +1,27 @@
+<section>
+    <ul>
+        <li>
+            <section>
+                <div>   
+                    <h1>Other Cities</h1>
+                    <button>Start Here</button>
+                </div>
+            </section>
+            <aside>
+                <img src="img/3.jpg">
+            </aside>
+        </li>
+
+        <li>
+            <section>
+                <div>   
+                    <h1>Need tickets?</h1>
+                    <button>Order Here</button>
+                </div>
+            </section>
+            <aside>
+                <img src="img/10.jpg">
+            </aside>
+        </li>
+    </ul>
+</section>
