@@ -4,12 +4,12 @@
     {
       "name" : "Process All Remaining Files and Folders",
       "stepType" : 1,
-      "uuidString" : "301077FD-6587-4DAE-808A-231B715466F3"
+      "uuidString" : "A7F92C38-B408-4D1D-87BE-0FB36BCEFA2E"
     }
   ],
   "creatorBuild" : "34127",
   "files" : {
-    "\/deploy\/css\/styles.css" : {
+    "\/in-class-demo-main\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
       "ci" : 0,
@@ -17,57 +17,229 @@
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/css\/styles-min.css",
+      "oAP" : "\/in-class-demo-main\/deploy\/css\/styles-min.css",
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/index.html" : {
+    "\/in-class-demo-main\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/index.html",
+      "oAP" : "\/in-class-demo-main\/deploy\/index.html",
       "oF" : 0
     },
-    "\/deploy\/js\/scripts-min.js" : {
+    "\/in-class-demo-main\/deploy\/js\/scripts-min.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/deploy\/js\/scripts-min-min.js",
+      "oAP" : "\/in-class-demo-main\/deploy\/js\/scripts-min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
-    "\/design\/structure-tags.sketch" : {
+    "\/in-class-demo-main\/design\/images \/0.jpg" : {
+      "ft" : 16384,
+      "iS" : 45387,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/design\/images \/0.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/in-class-demo-main\/design\/images \/1.jpg" : {
+      "ft" : 16384,
+      "iS" : 131487,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/design\/images \/1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/in-class-demo-main\/design\/images \/2.jpg" : {
+      "ft" : 16384,
+      "iS" : 84248,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/design\/images \/2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/in-class-demo-main\/design\/images \/3.jpg" : {
+      "ft" : 16384,
+      "iS" : 293732,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/design\/images \/3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/in-class-demo-main\/design\/images \/4.jpg" : {
+      "ft" : 16384,
+      "iS" : 23986,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/design\/images \/4.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/in-class-demo-main\/design\/images \/5.jpg" : {
+      "ft" : 16384,
+      "iS" : 31760,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/design\/images \/5.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/in-class-demo-main\/design\/images \/6.jpg" : {
+      "ft" : 16384,
+      "iS" : 41156,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/design\/images \/6.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/in-class-demo-main\/design\/images \/7.jpg" : {
+      "ft" : 16384,
+      "iS" : 68429,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/design\/images \/7.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/in-class-demo-main\/design\/images \/8.jpg" : {
+      "ft" : 16384,
+      "iS" : 38639,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/design\/images \/8.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/in-class-demo-main\/design\/images \/9.jpg" : {
+      "ft" : 16384,
+      "iS" : 78795,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/design\/images \/9.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/in-class-demo-main\/design\/images \/10.jpg" : {
+      "ft" : 16384,
+      "iS" : 3817092,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/design\/images \/10.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/in-class-demo-main\/design\/images \/11.jpg" : {
+      "ft" : 16384,
+      "iS" : 24709,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/design\/images \/11.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/in-class-demo-main\/design\/structure-tags.sketch" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/design\/structure-tags.sketch",
+      "oAP" : "\/in-class-demo-main\/design\/structure-tags.sketch",
       "oF" : 0
     },
-    "\/dev\/index.kit" : {
+    "\/in-class-demo-main\/dev\/content\/hero.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/index.html",
-      "oF" : 2
+      "oAP" : "\/in-class-demo-main\/dev\/content\/hero.html",
+      "oF" : 0
     },
-    "\/dev\/js\/scripts.js" : {
+    "\/in-class-demo-main\/dev\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/dev\/index.html",
+      "oF" : 0
+    },
+    "\/in-class-demo-main\/dev\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/dev\/index.html",
+      "oF" : 0
+    },
+    "\/in-class-demo-main\/dev\/js\/scripts.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/deploy\/js\/scripts-min.js",
-      "oF" : 2,
+      "oAP" : "\/in-class-demo-main\/dev\/js\/scripts-min.js",
+      "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
-    "\/dev\/scss\/base\/_base.scss" : {
+    "\/in-class-demo-main\/dev\/scss\/base\/_base.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -75,13 +247,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/base\/_base.css",
+      "oAP" : "\/in-class-demo-main\/dev\/scss\/base\/_base.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/base\/_normalize.scss" : {
+    "\/in-class-demo-main\/dev\/scss\/base\/_normalize.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -89,13 +261,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/base\/_normalize.css",
+      "oAP" : "\/in-class-demo-main\/dev\/scss\/base\/_normalize.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/base\/_typography.scss" : {
+    "\/in-class-demo-main\/dev\/scss\/base\/_typography.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -103,13 +275,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/base\/_typography.css",
+      "oAP" : "\/in-class-demo-main\/dev\/scss\/base\/_typography.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/components\/_buttons.scss" : {
+    "\/in-class-demo-main\/dev\/scss\/components\/_buttons.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -117,13 +289,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_buttons.css",
+      "oAP" : "\/in-class-demo-main\/dev\/scss\/components\/_buttons.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/components\/_forms.scss" : {
+    "\/in-class-demo-main\/dev\/scss\/components\/_forms.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -131,13 +303,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_forms.css",
+      "oAP" : "\/in-class-demo-main\/dev\/scss\/components\/_forms.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/components\/_navigation.scss" : {
+    "\/in-class-demo-main\/dev\/scss\/components\/_navigation.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -145,13 +317,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_navigation.css",
+      "oAP" : "\/in-class-demo-main\/dev\/scss\/components\/_navigation.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/helpers\/_mixins.scss" : {
+    "\/in-class-demo-main\/dev\/scss\/helpers\/_mixins.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -159,13 +331,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/helpers\/_mixins.css",
+      "oAP" : "\/in-class-demo-main\/dev\/scss\/helpers\/_mixins.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/helpers\/_variables.scss" : {
+    "\/in-class-demo-main\/dev\/scss\/helpers\/_variables.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -173,13 +345,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/helpers\/_variables.css",
+      "oAP" : "\/in-class-demo-main\/dev\/scss\/helpers\/_variables.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/layout\/_footer.scss" : {
+    "\/in-class-demo-main\/dev\/scss\/layout\/_footer.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -187,13 +359,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/layout\/_footer.css",
+      "oAP" : "\/in-class-demo-main\/dev\/scss\/layout\/_footer.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/layout\/_header.scss" : {
+    "\/in-class-demo-main\/dev\/scss\/layout\/_header.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -201,13 +373,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/layout\/_header.css",
+      "oAP" : "\/in-class-demo-main\/dev\/scss\/layout\/_header.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/styles.scss" : {
+    "\/in-class-demo-main\/dev\/scss\/styles.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -215,13 +387,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/css\/styles.css",
-      "oF" : 2,
+      "oAP" : "\/in-class-demo-main\/dev\/scss\/styles.css",
+      "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/README.md" : {
+    "\/in-class-demo-main\/README.md" : {
       "cB" : 0,
       "cS" : 0,
       "eF" : 1,
@@ -231,7 +403,7 @@
       "ft" : 4096,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/README.html",
+      "oAP" : "\/in-class-demo-main\/README.html",
       "oF" : 0,
       "oFM" : 0,
       "oS" : 0,
@@ -248,10 +420,10 @@
 
   },
   "projectAttributes" : {
-    "creationDate" : 638898965.76008201,
-    "displayValue" : "in-class-demo-main",
+    "creationDate" : 640037491.07917202,
+    "displayValue" : "hw-spratley",
     "displayValueWasSetByUser" : 0,
-    "iconImageName" : "brackets-koamaru",
+    "iconImageName" : "brackets-unblue",
     "iconImageWasSetByUser" : 0
   },
   "projectSettings" : {
