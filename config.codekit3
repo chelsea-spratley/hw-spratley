@@ -204,6 +204,14 @@
       "oAP" : "\/in-class-demo-main\/design\/structure-tags.sketch",
       "oF" : 0
     },
+    "\/in-class-demo-main\/dev\/content\/_footer.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/in-class-demo-main\/dev\/content\/_footer.html",
+      "oF" : 0
+    },
     "\/in-class-demo-main\/dev\/content\/header.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -220,12 +228,52 @@
       "oAP" : "\/in-class-demo-main\/dev\/content\/header.html",
       "oF" : 0
     },
+    "\/in-class-demo-main\/dev\/content\/hero.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/dev\/content\/hero.html",
+      "oF" : 0
+    },
     "\/in-class-demo-main\/dev\/content\/hero.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/in-class-demo-main\/dev\/content\/hero.html",
+      "oF" : 0
+    },
+    "\/in-class-demo-main\/dev\/content\/hero2.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/dev\/content\/hero2.html",
+      "oF" : 0
+    },
+    "\/in-class-demo-main\/dev\/content\/other cities.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/dev\/content\/other cities.html",
+      "oF" : 0
+    },
+    "\/in-class-demo-main\/dev\/content\/search.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/dev\/content\/search.html",
+      "oF" : 0
+    },
+    "\/in-class-demo-main\/dev\/content\/What's New.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/dev\/content\/What's New.html",
       "oF" : 0
     },
     "\/in-class-demo-main\/dev\/index.html" : {
