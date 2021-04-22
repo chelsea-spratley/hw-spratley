@@ -228,12 +228,36 @@
       "oAP" : "\/in-class-demo-main\/dev\/content\/hero.html",
       "oF" : 0
     },
+    "\/in-class-demo-main\/dev\/content\/hero2.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/dev\/content\/hero2.html",
+      "oF" : 0
+    },
+    "\/in-class-demo-main\/dev\/content\/other cities.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/dev\/content\/other cities.html",
+      "oF" : 0
+    },
     "\/in-class-demo-main\/dev\/content\/search.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/in-class-demo-main\/dev\/content\/search.html",
+      "oF" : 0
+    },
+    "\/in-class-demo-main\/dev\/content\/whats new.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/dev\/content\/whats new.html",
       "oF" : 0
     },
     "\/in-class-demo-main\/dev\/js\/scripts.js" : {
