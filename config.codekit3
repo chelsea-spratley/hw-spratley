@@ -212,6 +212,14 @@
       "oAP" : "\/in-class-demo-main\/design\/structure-tags.sketch",
       "oF" : 0
     },
+    "\/in-class-demo-main\/dev\/content\/footer.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/in-class-demo-main\/dev\/content\/footer.html",
+      "oF" : 0
+    },
     "\/in-class-demo-main\/dev\/content\/header.kit" : {
       "cB" : 0,
       "ft" : 2048,
