@@ -212,14 +212,6 @@
       "oAP" : "\/in-class-demo-main\/design\/structure-tags.sketch",
       "oF" : 0
     },
-    "\/in-class-demo-main\/dev\/content\/header.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/in-class-demo-main\/dev\/content\/header.html",
-      "oF" : 0
-    },
     "\/in-class-demo-main\/dev\/content\/header.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -236,12 +228,12 @@
       "oAP" : "\/in-class-demo-main\/dev\/content\/hero.html",
       "oF" : 0
     },
-    "\/in-class-demo-main\/dev\/index.html" : {
+    "\/in-class-demo-main\/dev\/content\/search.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/in-class-demo-main\/dev\/index.html",
+      "oAP" : "\/in-class-demo-main\/dev\/content\/search.html",
       "oF" : 0
     },
     "\/in-class-demo-main\/dev\/js\/scripts.js" : {
