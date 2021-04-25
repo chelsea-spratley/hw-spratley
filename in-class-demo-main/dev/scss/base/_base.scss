@@ -16,13 +16,36 @@ ul {
 }
 
 .content {
-    margin-bottom: 24px;
-
-    @include md {
-        margin-bottom: 32px;
+    display: grid;
+    grid-template-areas: 
+        "header"
+        "hero"
+        "other-cities"
+        "need-tickets"
+        "Hero-2"
+        "what-new"
+        "footer";
     }
 
-    @include xl {
-        margin-bottom: 64px;
+    .header {
+        grid-area: header;
     }
-}
+
+    .hero {
+        grid-area: hero;
+    }
+    .other-cities {
+        grid-area: other-cities;
+    }
+    .need-tickets {
+        grid-area: need-tickets;
+    }
+    .hero-2 {
+        grid-area: hero-2;
+    }
+    .what-new {
+        grid-area: what-new;
+    }
+    .footer {
+        grid-area: footer;
+    }
