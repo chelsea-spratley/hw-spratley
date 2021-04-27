@@ -244,12 +244,12 @@
       "oAP" : "\/in-class-demo-main\/dev\/content\/hero2.html",
       "oF" : 0
     },
-    "\/in-class-demo-main\/dev\/content\/other cities.kit" : {
+    "\/in-class-demo-main\/dev\/content\/othercities.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/in-class-demo-main\/dev\/content\/other cities.html",
+      "oAP" : "\/in-class-demo-main\/dev\/content\/othercities.html",
       "oF" : 0
     },
     "\/in-class-demo-main\/dev\/content\/search.kit" : {
@@ -260,12 +260,12 @@
       "oAP" : "\/in-class-demo-main\/dev\/content\/search.html",
       "oF" : 0
     },
-    "\/in-class-demo-main\/dev\/content\/whats new.kit" : {
+    "\/in-class-demo-main\/dev\/content\/whatsnew.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/in-class-demo-main\/dev\/content\/whats new.html",
+      "oAP" : "\/in-class-demo-main\/dev\/content\/whatsnew.html",
       "oF" : 0
     },
     "\/in-class-demo-main\/dev\/js\/scripts.js" : {
@@ -414,20 +414,6 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/in-class-demo-main\/dev\/scss\/layout\/_header.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/in-class-demo-main\/dev\/scss\/styles.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/in-class-demo-main\/dev\/scss\/styles.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

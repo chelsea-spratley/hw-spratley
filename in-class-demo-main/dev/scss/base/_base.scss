@@ -2,27 +2,162 @@
     Base
 ============= */
 figure {
-    margin: 0;
-    padding: 0;
+	margin: 0;
+	padding: 0;
 }
 
 ul {
-    margin: 0;
-    padding: 0;
+	margin: 0;
+	padding: 0;
 
-    li {
-        list-style: none;
-    }
+	li {
+		list-style: none;
+	}
 }
 
-.content {
-    margin-bottom: 24px;
+main {
+	display: grid;
+	grid-template-areas:
+		"header"
+		"search"
+		"hero"
+		"othercities"
+		"hero2"
+		"whats new"
+		"footer";
+}
 
-    @include md {
-        margin-bottom: 32px;
-    }
+.header {
+	grid-area: header;
+}
 
-    @include xl {
-        margin-bottom: 64px;
-    }
+.search {
+	grid-area: search;
+}
+
+.hero {
+	grid-area: hero;
+
+	img {
+		width: 100%;
+	}
+
+	ul {
+		display: grid;
+	}
+
+	a {
+		display: grid;
+	}
+
+	@include md {
+		ul {
+			grid-template-columns: repeat(12, 1fr);
+
+			.truck {
+				grid-column: span 5;
+			}
+			.location {
+				grid-column: span 7;
+			}
+		}
+	}
+}
+
+.othercities {
+	grid-area: planning;
+
+	ul {
+		display: grid;
+	}
+
+	.plan {
+		display: grid;
+		grid-template-columns: 400px auto;
+	}
+
+	@include md {
+		ul {
+			grid-template-columns: repeat(12, 1fr);
+			grid-gap: 20px;
+		}
+	}
+}
+
+.hero2 {
+	grid-area: hero-;
+
+	ul {
+		display: grid;
+	}
+
+	@include md {
+		ul {
+			grid-template-columns: repeat(12, 1fr);
+			grid-template-rows: repeat(6, 1fr);
+		}
+		img {
+			width: 100%;
+		}
+		.truck-1 {
+			grid-column: span 8;
+			grid-row: span 6;
+		}
+		.truck-2 {
+			grid-column: span 4;
+			grid-row: span 6;
+		}
+	}
+}
+
+.whatsnew {
+	grid-area: whatsnew;
+
+	ul {
+		display: grid;
+	}
+
+	@include md {
+		ul {
+			grid-template-columns: 350px 350px;
+			grid-gap: 30px;
+			justify-content: center;
+		}
+	}
+}
+
+.footer {
+	grid-area: footer;
+
+	.socials ul {
+		display: flex;
+	}
+
+	.locations {
+		section ul li {
+			display: grid;
+			grid-template-columns: 20px 200px;
+		}
+	}
+
+	@include md {
+		display: grid;
+		grid-template-columns: repeat(12, 1fr);
+		grid-template-rows: repeat(6, 1fr);
+		grid-gap: 50px;
+
+		.locations {
+			grid-column: 2 / 5;
+			grid-row: 1 / 4;
+		}
+
+		.newsletter {
+			grid-column: 5 / 6;
+			grid-row: 1 / 2;
+		}
+
+		.socials {
+			grid-column: 5 / 6;
+		}
+	}
 }
