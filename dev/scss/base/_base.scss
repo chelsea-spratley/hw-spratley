@@ -23,7 +23,181 @@ main {
 		"hero"
 		"othercities"
 		"hero2"
-		"whats new"
+		"whatsnew"
 		"footer";
 }
 
+.header {
+	grid-area: header;
+}
+
+.search {
+	grid-area: search;
+
+	form {
+		display: grid;
+		grid-template-columns: 85% auto;
+		grid-gap: 20px;
+	}
+}
+
+.hero {
+	grid-area: hero;
+
+	img {
+		width: 100%;
+	}
+
+	ul {
+		display: grid;
+	}
+
+	a {
+		display: grid;
+		grid-template-columns: 90% auto;
+		align-items: center;
+	}
+
+	@include md {
+		ul {
+			grid-template-columns: repeat(6, 1fr);
+
+			.hero {
+				grid-column: span 3;
+			}
+			.location {
+				grid-column: span 3;
+			}
+		}
+	}
+}
+
+.othercities {
+	grid-area: planning;
+
+	ul {
+		display: grid;
+	}
+
+	.plan {
+		display: grid;
+		grid-template-columns: 70% auto;
+	}
+
+	@include md {
+		.plan {
+			grid-template-columns: 70% auto;
+		}
+		ul {
+			grid-template-columns: 50% auto;
+			grid-gap: 20px;
+		}
+	}
+}
+
+.hero2 {
+	grid-area: hero2;
+
+	ul {
+		display: grid;
+	}
+
+	@include md {
+		ul {
+			grid-template-columns: repeat(4, 1fr);
+			grid-template-rows: repeat(3, 1fr);
+			grid-template-areas:
+				"hero2a hero2a hero2b hero2b"
+				"hero2a hero2a hero2b hero2b"
+				"hero2a hero2a hero2b hero2b";
+		}
+
+		.hero2a {
+			grid-area: hero2a;
+		}
+		.hero2b {
+			grid-area: hero2b;
+		}
+		.hero2c {
+			grid-area: hero2c;
+		}
+	}
+}
+
+.whatsnew {
+	grid-area: new;
+
+	ul {
+		display: grid;
+	}
+
+	@include md {
+		ul {
+			grid-template-columns: repeat(4, 1fr);
+			grid-gap: 30px;
+			justify-content: center;
+			grid-template-areas:
+				"new1 new1 new2 new2"
+				"new3 new3 new4 new4"
+				". new5 new5 .";
+		}
+
+		#new-gallery-1 {
+			grid-area: new1;
+		}
+		#new-gallery-2 {
+			grid-area: new2;
+		}
+		#new-gallery-3 {
+			grid-area: new3;
+		}
+		#new-gallery-4 {
+			grid-area: new4;
+		}
+		#new-gallery-5 {
+			grid-area: new5;
+		}
+		
+	}
+	
+}
+
+.footer {
+	grid-area: footer;
+
+	.socials ul {
+		display: flex;
+	}
+
+	.locations {
+		section ul li {
+			display: grid;
+			grid-template-columns: 20px 200px;
+		}
+	}
+
+	@include md {
+		display: grid;
+		grid-template-columns: repeat(6, 1fr);
+		grid-gap: 50px;
+		grid-template-areas:
+			". locations . newsletter"
+			". locations . socials";
+
+		.locations {
+			grid-area: locations;
+		}
+
+		.newsletter {
+			grid-area: newsletter;
+		}
+
+		.socials {
+			grid-area: socials;
+		}
+	}
+
+	@include lg {
+		grid-template-areas: ". locations . newsletter . socials";
+	}
+}
