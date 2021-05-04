@@ -216,57 +216,65 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/footer.html",
-      "oF" : 0
+      "oA" : 0,
+      "oAP" : "\/deploy\/index.html",
+      "oF" : 3
+    },
+    "\/dev\/content\/head.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/index.html",
+      "oF" : 2
     },
     "\/dev\/content\/header.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/header.html",
-      "oF" : 0
+      "oA" : 0,
+      "oAP" : "\/deploy\/index.html",
+      "oF" : 3
     },
     "\/dev\/content\/hero.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/hero.html",
-      "oF" : 0
+      "oA" : 0,
+      "oAP" : "\/deploy\/index.html",
+      "oF" : 3
     },
     "\/dev\/content\/hero2.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/hero2.html",
-      "oF" : 0
+      "oA" : 0,
+      "oAP" : "\/deploy\/index.html",
+      "oF" : 3
     },
     "\/dev\/content\/othercities.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/content\/othercities.html",
-      "oF" : 0
+      "oAP" : "\/deploy\/index.html",
+      "oF" : 3
     },
     "\/dev\/content\/search.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/search.html",
-      "oF" : 0
+      "oA" : 0,
+      "oAP" : "\/deploy\/index.html",
+      "oF" : 3
     },
     "\/dev\/content\/whatsnew.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/whatsnew.html",
-      "oF" : 0
+      "oA" : 0,
+      "oAP" : "\/deploy\/index.html",
+      "oF" : 3
     },
     "\/dev\/index.kit" : {
       "cB" : 0,
